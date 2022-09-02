@@ -6,3 +6,7 @@ After dropping null values,merging,labelencoding,undersampling and training the 
 2. "creation_time_day"              : The day on which the user signedup is also the key factor in being an adopted user.
 3. "time_stamp" or "time_stamp_hour": If the user has more than 3 visits per week and had recently visited(last instance considered) is likely to stay.
 4. "last_session_creation_time"     : The most recent visit has a very strong influence on the final prediction. 
+
+
+A Horizontal bar chart is attached along by the name "Task5.png" showing the above results.
+A .ipynb file is also attached by name Task - 5.ipynb
